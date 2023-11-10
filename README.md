@@ -6,7 +6,7 @@ Wizard Functionality: N/A
 
 How to run:
 
-        "npm installed" ---> "npm run start"
+        "npm install" ---> "npm run start"
 
 Comments:
     
